@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelenaSiena
+- 👋 Hi, I’m Helena Siena
 - 👀 I’m interested in FrontEnd.
 - 🌱 I’m currently learning HTML, CSS, JS, Figma.
 - 💞️ I’m looking to collaborate on developing web. 
