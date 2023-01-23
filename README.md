@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Helena Siena
 - 👀 I’m interested in FrontEnd.
 - 📫 EBAC - Full Stack Python.
-- 📫 UNINTER - Technology in Application Development for mobile devices.
 - 🌱 I’m currently learning HTML, CSS, JS, Figma.
 - 💞️ I’m looking to collaborate on developing web. 
 
