@@ -1,5 +1,5 @@
-## Olá!
-Eu sou a Helena Siena e estou ingressando na profissão Dev Jr!
+## Olá! É um prazer te recever aqui! ^-^
+# Dev FrontEnd Jr!
 
 ##
 - EBAC - Full Stack Python e UI/UX;
