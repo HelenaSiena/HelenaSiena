@@ -1,10 +1,10 @@
 ## Olá! É um prazer te receber aqui! ^-^
-# Dev FrontEnd Jr!
+> # Dev FrontEnd Jr!
 
 ##
-- EBAC - Full Stack Python e UI/UX;
-- UDEMY - Desenvolvimento Web Completo (HTML, CSS, JS, Bootstrap, PHP...);
-- UDEMY - Figma PRO;
+> * EBAC - Full Stack Python e UI/UX;
+> * UDEMY - Desenvolvimento Web Completo (HTML, CSS, JS, Bootstrap, PHP...);
+> * UDEMY - Figma PRO;
 ##
 <div style="display: inline_block"><br>
   
@@ -18,7 +18,6 @@
 
 </div>
   
-  ##
  ## Contatos:
 <div> 
   <a href="https://www.instagram.com/hellxsiena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
