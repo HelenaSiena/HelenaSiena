@@ -1,11 +1,6 @@
 ## Olá! É um prazer te receber aqui! ^-^
 > # Dev FrontEnd Jr!
 
-##
-> * EBAC - Full Stack Python e UI/UX;
-> * UDEMY - Desenvolvimento Web Completo (HTML, CSS, JS, Bootstrap, PHP...);
-> * UDEMY - Figma PRO;
-##
 <div style="display: inline_block"><br>
   
   <img align="center" alt="HTML" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/html.svg">
