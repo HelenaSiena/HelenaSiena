@@ -1,17 +1,6 @@
 ## Olá! É um prazer te receber aqui! ^-^
 > # Dev FrontEnd Jr!
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="HTML" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/html.svg">
-    <img align="center" alt="CSS" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/css.svg">
-    <img align="center" alt="Bootstrap" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/bootstrap.svg">
-    <img align="center" alt="Figma" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/figma.svg">
-      <img align="center" alt="VsCode" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/vscode.svg">
-      <img align="center" alt="GitHub" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/github.svg">
-
-</div>
-  
  # Contatos:
 <div> 
   <a href="https://www.instagram.com/hellxsiena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,6 +10,19 @@
 </div>
 
 # Assinatura:  <img align="center" alt="HS" height="80" width="80" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Logo-HS-footer.svg">
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="HTML" height="250" width="300" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/html.svg">
+    <img align="center" alt="CSS" height="230" width="230" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/css.svg">
+    <img align="center" alt="Bootstrap" height="230" width="230" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/bootstrap.svg">
+    <img align="center" alt="Figma" height="230" width="230" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/figma.svg">
+      <img align="center" alt="VsCode" height="230" width="230" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/vscode.svg">
+      <img align="center" alt="GitHub" height="230" width="230" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/github.svg">
+
+</div>
+  
+
 
 
 
