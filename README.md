@@ -1,5 +1,5 @@
 ## Olá! É um prazer te receber aqui! ^-^
-> # Dev FrontEnd Jr!
+> # Dev FrontEnd Jr! <img align="right" alt="Persona GitHub" height="400" width="400" src="https://raw.githubusercontent.com/HelenaSiena/HelenaSiena/main/octocat-1676121532320.png">
 
  # Contatos:
 <div> 
@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>  
     <img align="center" alt="HTML" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/html.svg">
     <img align="center" alt="CSS" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/css.svg">
-    <img align="center" alt="Bootstrap" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/bootstrap.svg"> <br>
+    <img align="center" alt="Bootstrap" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/bootstrap.svg">
     <img align="center" alt="Figma" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/figma.svg">
      <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/vscode.svg">
 </div>
