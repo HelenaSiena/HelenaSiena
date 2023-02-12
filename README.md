@@ -9,14 +9,14 @@
   
 </div>
 
-# Assinatura:  <img align="center" alt="HS" height="50" width="80" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Logo-HS-footer.svg">
+# Assinatura:  <img align="center" alt="HS" height="50" width="80" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/Logo-HS-footer.svg">
 
 <div style="display: inline_block"><br>  
-    <img align="center" alt="HTML" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/html.svg">
-    <img align="center" alt="CSS" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/css.svg">
-    <img align="center" alt="Bootstrap" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/bootstrap.svg">
-    <img align="center" alt="Figma" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/figma.svg">
-     <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Site%20Pessoal%20-%20GitHub/Componentes/Skills/vscode.svg">
+    <img align="center" alt="HTML" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/HTML.svg">
+    <img align="center" alt="CSS" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/CSS.svg">
+    <img align="center" alt="Bootstrap" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Bootstrap.svg">
+    <img align="center" alt="Figma" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Figma.svg">
+     <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/VSCode.svg">
 </div>
   
 
