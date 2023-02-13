@@ -1,5 +1,5 @@
 > ## Olá! É um prazer te receber aqui! ^-^
-# Dev FrontEnd Jr | UI Designer <img align="right" alt="Persona GitHub" height="400" width="400" src="https://raw.githubusercontent.com/HelenaSiena/HelenaSiena/main/octocat-1676121532320.png">
+# UI Designer Jr | Front End <img align="right" alt="Persona GitHub" height="400" width="400" src="https://raw.githubusercontent.com/HelenaSiena/HelenaSiena/main/octocat-1676121532320.png">
 
  # Contatos:
 <div> 
