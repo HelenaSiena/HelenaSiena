@@ -1,5 +1,5 @@
 > ## Olá! É um prazer te receber aqui! ^-^
-# UI Designer Jr | Front End <img align="right" alt="Persona GitHub" height="400" width="400" src="https://raw.githubusercontent.com/HelenaSiena/HelenaSiena/main/octocat-1676121532320.png">
+# UI/UX - Web Designer Jr <img align="right" alt="Persona GitHub" height="400" width="400" src="https://raw.githubusercontent.com/HelenaSiena/HelenaSiena/main/octocat-1676121532320.png">
 
  # Contatos:
 <div> 
@@ -9,14 +9,14 @@
   
 </div>
 
-# Assinatura:  <img align="center" alt="HS" height="50" width="80" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/Logo-HS-footer.svg">
+# Assinatura:  <img align="center" alt="HS" height="30" width="50" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/Logo-HS-footer.svg">
 
 <div style="display: inline_block"><br>  
-    <img align="center" alt="HTML" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/HTML.svg">
-    <img align="center" alt="CSS" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/CSS.svg">
     <img align="center" alt="Bootstrap" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Bootstrap.svg">
     <img align="center" alt="Figma" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Figma.svg">
      <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/main/Figma%20Projects/Project%20Lading%20Page%20HS/skills/VSCode.svg">
+     <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/82fde2dc796e9440868af9b61500f6b4a0d0761f/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Wordpress.svg">
+     <img align="center" alt="VsCode" height="200" width="200" src="https://raw.githubusercontent.com/HelenaSiena/Figma-Potfolio/82fde2dc796e9440868af9b61500f6b4a0d0761f/Figma%20Projects/Project%20Lading%20Page%20HS/skills/Elementor.svg">
 </div>
   
 
